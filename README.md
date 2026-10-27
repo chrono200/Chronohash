@@ -31,7 +31,7 @@ pkg update -y && pkg install -y python git
 **2. Get the project**
 
 ~~~bash
-git clone https://github.com/<your-username>/chronohash.git
+git clone https://github.com/chrono200/Chronohash.git
 cd chronohash
 ~~~
 
